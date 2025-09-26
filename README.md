@@ -44,7 +44,7 @@ ng serve --open --port 4300
 Runs on: http://localhost:4300  
 → Connects to backend at http://localhost:8080/api
 
----
+
 ```
 
 
