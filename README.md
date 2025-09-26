@@ -46,6 +46,16 @@ Runs on: http://localhost:4300
 
 
 ```
+---
+## 📸 Screenshots
 
+### Dashboard
+![Dashboard Screenshot](./screenshots/Dashboard.png)
+
+### Income Page
+![Income Screenshot](./screenshots/Income.png)
+
+### Expense Page
+![Expense Screenshot](./screenshots/Expense.png)
 
 
